@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/AlbinHyldgaard/albin-release-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
+
+
+### Bug Fixes
+
+* trigger build ([443d797](https://github.com/AlbinHyldgaard/albin-release-with-git/commit/443d79718645911f2367352ad5643bd0cee834c0))
+* trigger build ([d40f727](https://github.com/AlbinHyldgaard/albin-release-with-git/commit/d40f727ae8e7e455a41adbafbd0b47bae9826960))
+
 ## [1.1.0](https://github.com/AlbinHyldgaard/albin-release-with-git/compare/v1.0.0...v1.1.0) (2023-01-13)
 
 
