@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/AlbinHyldgaard/albin-release-with-git/compare/v1.1.1...v1.2.0) (2023-01-13)
+
+
+### Features
+
+* print current time ([8de568f](https://github.com/AlbinHyldgaard/albin-release-with-git/commit/8de568f01e18372155ae867387b323e61eb543e8))
+
 ## [1.1.1](https://github.com/AlbinHyldgaard/albin-release-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
 
 
